@@ -1,6 +1,7 @@
 # Apprendre-le-Markdown
-![1649704974863](https://user-images.githubusercontent.com/100351485/189684964-61b40a44-5127-485e-947c-9af16220719f.jpg)
 # Présentation
+![1649704974863](https://user-images.githubusercontent.com/100351485/189684964-61b40a44-5127-485e-947c-9af16220719f.jpg)
+
 ## François Brasy
 * **_Coordonnées_**
     * **Téléphone** : 07 60 41 43 23_

@@ -4,9 +4,9 @@
 
 ## François Brasy
 * **_Coordonnées_**
-    * **Téléphone** : 07 60 41 43 23_
-    * **mail** : brasy.francoisqlio@gmail.com
-    * **adresse** : 319 rue Gambetta 62122 Lapugnoy
+    * **Téléphone** : 07 60 xx 43 xx
+    * **mail** : brasy.francoisqxxo@gmail.com
+    * **adresse** : xxx rue Gambetta 62122 Lxpugnxy
     * [***Github***](https://github.com/FrancoisBrasy)
     * [***Linkedin***]( www.linkedin.com/in/françois-brasy)
     * [***Mon site***](https://francoisbrasy.github.io/)

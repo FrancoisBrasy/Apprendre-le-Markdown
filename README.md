@@ -1,6 +1,6 @@
 # Apprendre-le-Markdown
-## Présentation
-### François Brasy
+# Présentation
+## François Brasy
 * **_Coordonnées_**
     * **Téléphone** : 07 60 41 43 23_
     * **mail** : brasy.francoisqlio@gmail.com
